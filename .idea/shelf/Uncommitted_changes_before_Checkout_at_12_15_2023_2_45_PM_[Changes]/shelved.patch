@@ -1,0 +1,145 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f16b85cd-7eda-46d2-b131-a288acc25fbd\" name=\"Changes\" comment=\"Java Basics labs\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;simonmekit&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"63f457fb-df3c-4b8c-beec-a825bd416818\" />\r\n        <option name=\"url\" value=\"https://github.com/simonmekit/JavaFS.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ZPMZFZ7L0kSD6nD31zaYeBja34\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.ArrayDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.ArrayDemo1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.GreatestCommonDevisor.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.IsEmpty.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.JavaBasicClass.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.LengthDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.MeanSDArray.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.MixeTypeArrayExample.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.MultiDimArrayDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.PredictFuture.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.StringBuilderDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.StringMethodsDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.StringTokenDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,\r\n    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/simon/IdeaProjects/NewRepo&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/simon/IdeaProjects/FSProject1/src/Main.java&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,\r\n    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26541555&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.ArrayDemo1\">\r\n    <configuration name=\"ArrayDemo1\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.perscholas.java_basics.ArrayDemo1\" />\r\n      <module name=\"FSProject1\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.perscholas.java_basics.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"MixeTypeArrayExample\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.perscholas.java_basics.MixeTypeArrayExample\" />\r\n      <module name=\"FSProject1\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.perscholas.java_basics.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"StringBuilderDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.perscholas.java_basics.StringBuilderDemo\" />\r\n      <module name=\"FSProject1\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.perscholas.java_basics.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.ArrayDemo1\" />\r\n        <item itemvalue=\"Application.MixeTypeArrayExample\" />\r\n        <item itemvalue=\"Application.StringBuilderDemo\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12\" />\r\n        <option value=\"jdk-21.0.1-corretto-21.0.1-3183f394aec4-3b9d21dd\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f16b85cd-7eda-46d2-b131-a288acc25fbd\" name=\"Changes\" comment=\"\" />\r\n      <created>1702319317017</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1702319317017</updated>\r\n      <workItem from=\"1702319318055\" duration=\"328000\" />\r\n      <workItem from=\"1702319701904\" duration=\"64184000\" />\r\n      <workItem from=\"1702657477806\" duration=\"2890000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702327434334</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702327434334</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"First commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702328973198</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702328973198</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Java Basics labs\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702667337283</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702667337283</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Java Basics labs\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1702667645289</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1702667645289</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"First commit\" />\r\n    <MESSAGE value=\"Java Basics labs\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Java Basics labs\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c35e72aa97f66a376618a04ec1f0155a7a41a22c)
++++ b/.idea/workspace.xml	(date 1702669181929)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f16b85cd-7eda-46d2-b131-a288acc25fbd" name="Changes" comment="Java Basics labs" />
++    <list default="true" id="5581ece4-8317-41a4-a3d0-d7fa29039ce5" name="Changes" comment="Java Basics labs" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -33,6 +33,9 @@
+         <option name="url" value="https://github.com/simonmekit/JavaFS.git" />
+       </UrlAndAccount>
+     </option>
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 8
+@@ -45,52 +48,52 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.ArrayDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.ArrayDemo1.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.AutoTypeConversion.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.GreatestCommonDevisor.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.IsEmpty.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.JavaBasicClass.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.LengthDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.LogicalOperators.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.MeanSDArray.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.MixeTypeArrayExample.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.MultiDimArrayDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.PredictFuture.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.StringBuilderDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.StringMethodsDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.StringTokenDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.TernaryOperatorDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/simon/IdeaProjects/NewRepo&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/simon/IdeaProjects/FSProject1/src/Main.java&quot;,
+-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26541555&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.ArithmeticOperatorsDemo.executor": "Run",
++    "Application.ArrayDemo.executor": "Run",
++    "Application.ArrayDemo1.executor": "Run",
++    "Application.AssignmentOperatorsDemo.executor": "Run",
++    "Application.AutoTypeConversion.executor": "Run",
++    "Application.BitwiseOperatorsDemo.executor": "Run",
++    "Application.GreatestCommonDevisor.executor": "Run",
++    "Application.IsEmpty.executor": "Run",
++    "Application.JavaBasicClass.executor": "Run",
++    "Application.LengthDemo.executor": "Run",
++    "Application.LogicalOperators.executor": "Run",
++    "Application.Main.executor": "Run",
++    "Application.MeanSDArray.executor": "Run",
++    "Application.MixeTypeArrayExample.executor": "Run",
++    "Application.MultiDimArrayDemo.executor": "Run",
++    "Application.PredictFuture.executor": "Run",
++    "Application.RelationalOperatorsDemo.executor": "Run",
++    "Application.StringBuilderDemo.executor": "Run",
++    "Application.StringMethodsDemo.executor": "Run",
++    "Application.StringTokenDemo.executor": "Run",
++    "Application.Substring.executor": "Run",
++    "Application.TernaryOperatorDemo.executor": "Run",
++    "Application.UnaryOperator.executor": "Run",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "git-widget-placeholder": "main",
++    "ignore.virus.scanning.warn.message": "true",
++    "kotlin-language-version-configured": "true",
++    "last_opened_file_path": "C:/Users/simon/IdeaProjects/NewRepo",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "onboarding.tips.debug.path": "C:/Users/simon/IdeaProjects/FSProject1/src/Main.java",
++    "project.structure.last.edited": "SDKs",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.2",
++    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
++    "settings.editor.splitter.proportion": "0.26541555",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager" selected="Application.ArrayDemo1">
+     <configuration name="ArrayDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.perscholas.java_basics.ArrayDemo1" />
+@@ -196,6 +199,17 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="First commit" />
