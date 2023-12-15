@@ -1,3 +1,5 @@
+package com.perscholas.java_basics;
+
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -8,7 +10,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.print("Hello and welcome!");
 
-        for (int i = 1; i <= 8; i++) {
+        for (int i = 1; i <= 3; i++) {
             Scanner sc = new Scanner(System.in);
             String name;
             name = sc.next();
